@@ -1,6 +1,8 @@
 # Why 
 i have a small main drive and moved all games to a secondary. Sadly r2modman wants to store all the files in appdata so i created this small script to change this.
 
+no clue if this will break some mods who cant handle symlinks...
+
 # Usage
 just put the bat file "change_storage_to_here.bat" in the location where you want to move the r2modman game files 
 run the script "change_storage_to_here.bat" as administrator because else it cant create the symbolik link
